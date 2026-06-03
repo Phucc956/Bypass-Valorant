@@ -1,10 +1,10 @@
-# Gaming Tools: Vanguard Bypass & Garena Auto-Reg
+# Tools: Vanguard Bypass
 
 Yo, I've put together (and "refined" a bit) a couple of tools for anyone playing Valorant or needing to mass-create Garena accounts. Feel free to use them if you need 'em. Here's a quick rundown of what's in the box:
 
 ---
 
-## 1. SourceBypass.py (Vanguard Bypass for Valorant)
+## SourceBypass.py (Vanguard Bypass for Valorant)
 
 This one is specifically for dealing with Riot's "Vanguard" (VGC) system. If you're running into issues or just want to experiment without dealing with the constant background scans, this is for you.
 
